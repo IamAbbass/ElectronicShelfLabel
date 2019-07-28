@@ -1,0 +1,12 @@
+img{
+  border: 2px solid #eee;
+ } 
+#image1{
+  display: flex;
+  justify-content: center;
+}
+#image2{
+  display: flex;
+  justify-content: center;
+}    
+   
